@@ -1,8 +1,5 @@
 """ Write a program to implement FCFS scheduling with arrival time. """
 
-
-
-
 process=[]
 n=int(input("Enter no of process: "))
 for i in range(n):
